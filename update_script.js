@@ -1,6 +1,6 @@
 /*	
- * @author	D4ddy-LiLd4rk
- * @source	https://github.com/D4ddy-LiLd4rk/AdventureLand
+ * @author	Huggybe4r
+ * @source	https://github.com/Huggybe4r/adventureland
  */
 
 const baseURL = "https://raw.githubusercontent.com/Huggybe4r/adventureland/master/";
